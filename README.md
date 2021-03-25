@@ -1,6 +1,7 @@
 # Long-Running Notebook Tasks
 
 **Click 👇 to run the notebook in your browser!**
+
 👉 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OliverEvans96/jupyter-long-running-cells/HEAD?filepath=Long-Running%20Notebook%20Tasks.ipynb) 👈
 
 Assume that you're working on a notebook that contains
