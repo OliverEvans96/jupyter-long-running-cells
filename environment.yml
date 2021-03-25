@@ -1,0 +1,10 @@
+name: jupyter_long_running_cells
+channels:
+  - defaults
+dependencies:
+  # Core requirements
+  - python=3.7
+  - pip
+  # 3rd party packages
+  - matplotlib
+  - numpy
